@@ -121,5 +121,10 @@ Experiment no 35 : Write a program to store n numbers in an array and find their
 
 
 Experiment no 36 : Write a program to delete an element from a specified position in an array.
+
+
+
 Experiment no 37 : Write a C program to search for a given number in an array using linear search.
+
+
 Experiment no 38 : Write a C program to sort the elements of an array in ascending order.
